@@ -8,3 +8,12 @@ body {
 h1 {
     font-weight: bolder;
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 0 15px;
+    text-align: center;
+}
